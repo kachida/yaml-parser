@@ -1,0 +1,9 @@
+Person:
+  name: Coding Challenges
+  languages:
+    - english
+    - japanese
+  age : 31
+  course:
+    course_name: japanese
+    department: eee
